@@ -51,7 +51,7 @@ This repository is completely automated. Every time a solution receives the **"S
 ### 📬 Connect with Me
 
 <p>
-  <a href="https://leetcode.com/u/Kushagra_Sharma_2112/">
+  <a href="https://leetcode.com/u/Kushagra_Sharma2005/">
     <img src="https://img.shields.io/badge/LeetCode-Kushagra__Sharma__2112-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
   <a href="https://www.linkedin.com/in/kushagra-sharma-75571028b/">
